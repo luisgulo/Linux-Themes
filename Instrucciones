@@ -1,0 +1,9 @@
+* Descarcargar el Tema "Guindous10"
+* Extraer el .tgz como usuario root desde la carpeta raiz.
+Se crearán dos directorios:
+- /usr/share/icons/Guindous10
+- /usr/share/themes/Guindous10
+
+* Luego Tan solo hay que ir a 'Centro de Control' --> Apariencia
+Y escoger el tema "Guindous10"
+
